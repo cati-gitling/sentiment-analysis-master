@@ -46,7 +46,7 @@ This script demonstrates my skills in working with APIs, data acquisition, and m
 - Ensure `.gitignore` excludes local or temporary files from the repository.
 
 ### Reproducing the analysis  
-1. Use existing CSV files in `/raw-data/` (if provided) or run `get_tweets.py` to download fresh data.
+1. Use existing CSV files in `/raw-data/` or run `get_tweets.py` to download fresh data.
    - **Before running the script**, make sure to specify the desired Twitter account handles (e.g., `@realDonaldTrump`, `@HillaryClinton`, `@nytimes`) in the configuration section of `get_tweets.py`.
    - You will also need valid Twitter API credentials (see script comments).
 2. Open the Jupyter Notebooks in `/.ipynb-notebooks/` to follow the full analysis workflow.  
@@ -55,6 +55,7 @@ This script demonstrates my skills in working with APIs, data acquisition, and m
 ---
 
 If you have any questions about the project or file structure, feel free to contact me at [github.com/cati-gitling](https://github.com/cati-gitling).
+
 
 
 
